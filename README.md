@@ -1,5 +1,5 @@
 ### ds4a_project (team 54)
-This is an archive library for all notebook files created for the DS4A Project (Team 54)
+This is an archive for all notebook files created for the DS4A Project (Team 54)
 
 ### File List
 
