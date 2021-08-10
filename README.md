@@ -1,19 +1,26 @@
-## ds4a_project (team 54)
-This is an archive libary for all notebook files created for the DS4A Project (Team 54)
+### ds4a_project (team 54)
+This is an archive library for all notebook files created for the DS4A Project (Team 54)
 
-## File List
+### File List
 
-### batch_processing_excel_files.ipynb
+* data
+  * df_hospital_clean.csv
+  * df_population.csv
+  * df_price_clean.csv
+* data_schema_diagram.drawio </br>
+This is the diagram for the data schema.
+
+* batch_processing_excel_files.ipynb </br> 
 This notebook is created to batch process excel files. It reads and extracts a selection of features by cpt_code.
 
-### dataset_merging_check.ipynb
+* dataset_merging_check.ipynb </br>
 This notebook prepares all dataframes for the merging. It checks foregin keys for typos, erros, and potentially missing values.
 
-### eda_nyembo.ipynb
+* eda_nyembo.ipynb </br>
 This notebook is the first version of eda, developed by kasole nyembo.
 
-### knn_imputation.ipynb
+* knn_imputation.ipynb </br>
 This notebook is the first implementation of knn imputation, which did not end up being used.
 
-### regression_model.ipynb
-This notebook is the main file for the predictive modeling. In addition to model selection/optimization, it also contains correlation matrix and pca biplot for the eda.
+* regression_model.ipynb </br>
+This notebook is the main file for predictive modeling. In addition to model selection/optimization, it also contains correlation matrix and pca biplot for the eda.
