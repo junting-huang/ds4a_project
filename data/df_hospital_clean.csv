@@ -1,0 +1,119 @@
+hospital_name,system,facility,county_name,zip_code,capacity,revenue,ownership,urban,type,tps_score
+Ascension_Borgess,Ascension Michigan,Ascension Borgess Hospital,Kalamazoo,49048,356,1.59E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,33
+Ascension_BorgessAllegan,Ascension Michigan,Ascension Borgess Allegan Hospital,Allegan,49010,25,6.95E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Ascension_BorgessLee,Ascension Michigan,Ascension Borgess-Lee Hospital,Cass,49047,25,6.30E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Ascension_BorgessPipp,Ascension Michigan,Ascension Borgess-Pipp Hospital,Allegan,49080,43,6.56E+07,"Voluntary Nonprofit, Other",Rural,Long Term,0
+Ascension_BrightonCenter,Ascension Michigan,Ascension Brighton Center for Recovery,Livingston,48116,99,1.78E+07,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,0
+Ascension_Genesys,Ascension Michigan,Ascension Genesys Hospital,Genesee,48439,370,1.22E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,27
+Ascension_MacombOaklandMadisonHeightsCampus,Ascension Michigan,Ascension Macomb-Oakland Hospital - Madison Heights Campus,Oakland,48071,159,NaN,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,0
+Ascension_MacombOaklandWarrenCampus,Ascension Michigan,Ascension Macomb-Oakland Hospital - Warren Campus,Macomb,48093,499,1.38E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,21.25
+Ascension_ProvidenceNoviCampus,Ascension Michigan,"Ascension Providence Hospital, Novi Campus",Oakland,48374,0,NaN,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,0
+Ascension_ProvidenceRochester,Ascension Michigan,Ascension Providence Rochester Hospital,Oakland,48307,224,6.09E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,31
+Ascension_ProvidenceSouthfieldCampus,Ascension Michigan,"Ascension Providence Hospital, Southfield Campus",Oakland,48075,563,2.16E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,37.75
+Ascension_RiverDistrict,Ascension Michigan,Ascension River District Hospital,St. Clair,48054,68,7.25E+07,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,37.44
+Ascension_Standish,Ascension Michigan,Ascension Standish Hospital,Arenac,48658,54,5.03E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Ascension_StJohn,Ascension Michigan,Ascension St. John Hospital,Wayne,48236,615,2.29E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,31.5
+Ascension_StJoseph,Ascension Michigan,Ascension St. Joseph Hospital,Iosco,48763,47,9.42E+07,"Voluntary Nonprofit, Church",Rural,Short Term Acute Care,48.83
+Ascension_StMarys,Ascension Michigan,Ascension St. Mary’s Hospital,Saginaw,48601,232,8.44E+08,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,16.75
+Aspirus_IronRiver,Aspirus Inc,"Aspirus Iron River Hospital & Clinics, Inc.",Iron,49935,25,7.94E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Aspirus_Ironwood,Aspirus Inc,"Aspirus Ironwood Hospital & Clinics, Inc.",Gogebic,49938,25,1.41E+08,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Aspirus_Keweenaw,Aspirus Inc,Aspirus Keweenaw Hospital,Houghton,49913,25,1.22E+08,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Aspirus_Ontonagon,Aspirus Inc,Aspirus Ontonagon Hospital,Ontonagon,49953,64,2.35E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Beaumont_Dearborn,Beaumont Health,"Beaumont Hospital, Dearborn",Wayne,48124,567,2.92E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,27.5
+Beaumont_FarmingtonHills,Beaumont Health,"Beaumont Hospital, Farmington Hills",Oakland,48336,301,1.52E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,33.75
+Beaumont_GrossePointe,Beaumont Health,"Beaumont Hospital, Grosse Pointe",Wayne,48230,266,8.91E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,50.5
+Beaumont_RoyalOak,Beaumont Health,"Beaumont Hospital, Royal Oak",Oakland,48073,1098,5.21E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,29.5
+Beaumont_Taylor,Beaumont Health,"Beaumont Hospital, Taylor",Wayne,48230,180,6.96E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,25.5
+Beaumont_Trenton,Beaumont Health,"Beaumont Hospital, Trenton",Wayne,48183,193,8.28E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,30.75
+Beaumont_Troy,Beaumont Health,"Beaumont Hospital, Troy",Macomb,48085,520,2.85E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,29.5
+Beaumont_Wayne,Beaumont Health,"Beaumont Hospital, Wayne",Wayne,48184,86,6.47E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,29.5
+Bronson_BattleCreek,Bronson Healthcare Group,Bronson Battle Creek Hospital,Calhoun,49017,25,6.25E+07,"Proprietary, Corporation",Urban,Long Term,0
+Bronson_Lakeview,Bronson Healthcare Group,Bronson LakeView Hospital,Van Buren,49079,35,1.24E+08,"Voluntary Nonprofit, Other",Urban,Critical Access,0
+Bronson_Methodist,Bronson Healthcare Group,Bronson Methodist Hospital,Kalamazoo,49007,415,1.92E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,38.75
+Bronson_SouthHaven,Bronson Healthcare Group,Bronson South Haven,Van Buren,49090,49,8.11E+07,"Governmental, Other",Urban,Short Term Acute Care,48.11
+DetroitMedicalCenter_ChildrenHospital,Detroit Medical Center,DMC Children's Hospital of Michigan,Oakland,48201,228,1.19E+09,"Proprietary, Corporation",Urban,Childrens,0
+DetroitMedicalCenter_DetroitReceivingHospital,Detroit Medical Center,DMC Detroit Receiving Hospital & University Health Center,Wayne,48201,210,1.25E+09,"Proprietary, Corporation",Urban,Short Term Acute Care,18.38
+DetroitMedicalCenter_HarperUniversity,Detroit Medical Center,DMC Harper/Hutzel Hospital,Wayne,48201,0,NaN,"Voluntary Nonprofit, Other",Urban,Other,0
+DetroitMedicalCenter_HuronValleySinai,Detroit Medical Center,DMC Huron Valley-Sinai Hospital,Oakland,48382,131,7.89E+08,"Proprietary, Corporation",Rural,Short Term Acute Care,24.25
+DetroitMedicalCenter_Rehabilitation,Detroit Medical Center,DMC Rehabilitation Institute of Michigan,Wayne,48201,69,1.98E+08,"Proprietary, Corporation",Urban,Other,0
+DetroitMedicalCenter_SinaiGrace,Detroit Medical Center,DMC Sinai-Grace Hospital,Wayne,48235,358,1.57E+09,"Proprietary, Corporation",Urban,Short Term Acute Care,27.75
+HenryFord_AllegianceHealth,Henry Ford Health System,Henry Ford Allegiance Health,Jackson,49201,373,1.90E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,33.25
+HenryFord_Hospital,Henry Ford Health System,Henry Ford Hospital,Wayne,48202,693,5.19E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,28.5
+HenryFord_Kingswood,Henry Ford Health System,Henry Ford Kingswood Hospital,Oakland,48220,136,4.93E+07,"Voluntary Nonprofit, Other",Urban,Other,0
+HenryFord_Macomb,Henry Ford Health System,Henry Ford Macomb Hospitals,Macomb,48038,427,1.49E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,25
+HenryFord_WestBloomfield,Henry Ford Health System,Henry Ford West Bloomfield Hospital,Oakland,48322,191,1.05E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,32.25
+HenryFord_Wyandotte,Henry Ford Health System,Henry Ford Wyandotte Hospital,Wayne,48192,357,9.95E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,26.5
+LifePoint_Bell,LifePoint Health,UP Health System - Bell,Marquette,49849,25,8.51E+07,"Proprietary, Corporation",Rural,Critical Access,0
+LifePoint_Marquette,LifePoint Health,UP Health System - Marquette,Marquette,49855,222,1.06E+09,"Proprietary, Corporation",Rural,Short Term Acute Care,26
+LifePoint_Portage,LifePoint Health,UP Health System - Portage,Houghton,49930,96,1.72E+08,"Proprietary, Corporation",Rural,Short Term Acute Care,41.5
+McLaren_BayRegion,McLaren Healthcare,McLaren Bay Region,Bay,48708,349,1.05E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,36.75
+McLaren_BaySpecialCare,McLaren Healthcare,McLaren Bay Special Care,Bay,48706,31,1.62E+07,"Voluntary Nonprofit, Other",Urban,Long Term,0
+McLaren_CaroCommunityHospital,McLaren Healthcare,McLaren Caro Region,Tuscola,48723,25,2.76E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+McLaren_Central,McLaren Healthcare,McLaren Central Michigan,Isabella,48858,90,2.54E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,58.75
+McLaren_Flint,McLaren Healthcare,McLaren Flint,Genesee,48532,361,1.53E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,31.75
+McLaren_GreaterLansing,McLaren Healthcare,McLaren Greater Lansing,Ingham,48910,255,1.20E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,33.75
+McLaren_KarmanosCancerInstitute,McLaren Healthcare,Karmanos Cancer Center,Wayne,48201,123,7.96E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,34.67
+McLaren_Lapeer,McLaren Healthcare,McLaren Lapeer Region,Lapeer,48446,153,4.69E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,36.13
+McLaren_Macomb,McLaren Healthcare,McLaren Macomb,Macomb,48043,279,1.04E+09,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,31.25
+McLaren_NorthernMichigan,McLaren Healthcare,McLaren Northern Michigan,Emmet,49770,185,6.56E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,47
+McLaren_Oakland,McLaren Healthcare,McLaren Oakland,Oakland,48342,162,4.67E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,19
+McLaren_PortHuron,McLaren Healthcare,McLaren Port Huron,St. Clair,48060,186,6.56E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,31.75
+McLaren_ThumbRegion,McLaren Healthcare,McLaren Thumb Region,Huron,48413,33,8.25E+07,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,49.33
+MidMichigan_Alpena,MidMichigan Health,MidMichigan Medical Center - Alpena,Alpena,49707,139,3.65E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,47.88
+MidMichigan_Clare,MidMichigan Health,MidMichigan Medical Center - Clare,Clare,48617,49,1.39E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,47.83
+MidMichigan_Gladwin,MidMichigan Health,MidMichigan Medical Center - Gladwin,Gladwin,48624,25,7.76E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+MidMichigan_Gratiot,MidMichigan Health,MidMichigan Medical Center - Gratiot,Gratiot,48801,97,3.56E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,31.67
+MidMichigan_Midland,MidMichigan Health,MidMichigan Medical Center - Midland,Midland,48670,324,1.14E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,34.25
+MidMichigan_WestBranch,MidMichigan Health,MidMichigan Medical Center - West Branch,Ogemaw,48661,88,1.12E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,46.33
+MunsonHealthCare_Cadillac,Munson Healthcare,Munson Healthcare Cadillac Hospital,Wexford,49601,49,2.82E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,52.5
+MunsonHealthCare_Charlevoix,Munson Healthcare,Munson Healthcare Charlevoix Hospital,Charlevoix,49720,25,9.17E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+MunsonHealthCare_Grayling,Munson Healthcare,Munson Healthcare Grayling Hospital,Crawford,49738,81,2.22E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,45.33
+MunsonHealthCare_Kalkaska,Munson Healthcare,Kalkaska Memorial Health Center,Kalkaska,49646,110,8.40E+07,"Governmental, County",Rural,Critical Access,0
+MunsonHealthCare_Mackinac,Munson Healthcare,"Mackinac Straits Health System, Inc.",Mackinac,49781,63,71427790,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+MunsonHealthCare_Manistee,Munson Healthcare,Munson Healthcare Manistee Hospital,Manistee,49660,45,1.55E+08,"Governmental, County",Rural,Short Term Acute Care,61.67
+MunsonHealthCare_MedicalCenter,Munson Healthcare,Munson Medical Center,Grand Traverse,49684,442,1.79E+09,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,48.75
+MunsonHealthCare_OtsegoMemorial,Munson Healthcare,Munson Healthcare Otsego Memorial Hospital,Otsego,49735,80,2.00E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,53.75
+MunsonHealthCare_PaulOliverMemorial,Munson Healthcare,Munson Healthcare Paul Oliver Memorial Hospital,Benzie,49635,43,3.66E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+OSF_Healthcare,OSF Healthcare,O.S.F. St. Francis Hospital and Medical Group,Delta,49829,25,2.82E+08,"Voluntary Nonprofit, Church",Urban,Critical Access,0
+PrimeHealthcare_GardenCity,Prime Healthcare Services,Garden City Hospital,Wayne,48135,157,6.12E+08,"Proprietary, Corporation",Urban,Short Term Acute Care,25
+PrimeHealthcare_LakeHuronMedicalCenter,Prime Healthcare Services,Lake Huron Medical Center,St. Clair,48060,164,3.58E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,59.33
+Promedica_CharlesAndVirginiaHickman,ProMedica,Charles and Virginia Hickman Hospital,Lenawee,49221,0,NaN,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,0
+Promedica_ColdwaterRegional,ProMedica,Coldwater Regional Hospital,Branch,49036,75,2.12E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,34.63
+Promedica_MonroeRegional,ProMedica,Monroe Regional Hospital,Monroe,48162,160,4.11E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,29.75
+SelectMedical_AnnArbor,Select Medical A System of Type 1 B's,Select Specialty Hospital - Ann Arbor,Washtenaw,48197,36,8.30E+07,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_Downriver,Select Medical A System of Type 1 B's,Select Specialty Hospital - Downriver,Wayne,48192,71,1.68E+08,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_Flint,Select Medical A System of Type 1 B's,Select Specialty Hospital - Flint,Genesee,48532,26,5.47E+07,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_GrossePointe,Select Medical A System of Type 1 B's,Select Specialty Hospital - Grosse Pointe,Wayne,48230,26,4.34E+07,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_Macomb,Select Medical A System of Type 1 B's,Select Specialty Hospital - Macomb County,Macomb,48043,92,1.79E+08,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_NorthwestDetroit,Select Medical A System of Type 1 B's,Select Specialty Hospital - NW Detroit,Wayne,48235,36,6.18E+07,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_Pontiac,Select Medical A System of Type 1 B's,Select Specialty Hospital - Pontiac,Oakland,48341,30,4.06E+07,"Proprietary, Corporation",Urban,Long Term,0
+SelectMedical_Saginaw,Select Medical A System of Type 1 B's,Select Specialty Hospital - Saginaw,Saginaw,48602,32,6.91E+07,"Proprietary, Corporation",Urban,Long Term,0
+Sparrow_Carson,Sparrow Health System,Sparrow Carson Hospital,Montcalm,48811,48,1.08E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,39
+Sparrow_Clinton,Sparrow Health System,Sparrow Clinton Hospital,Clinton,48879,25,1.20E+08,"Voluntary Nonprofit, Other",Urban,Critical Access,0
+Sparrow_Eaton,Sparrow Health System,Sparrow Eaton Hospital,Eaton,48813,25,1.13E+08,"Voluntary Nonprofit, Other",Urban,Critical Access,0
+Sparrow_Ionia,Sparrow Health System,Sparrow Ionia Hospital,Ionia,48846,22,1.37E+08,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+Sparrow_Lansing,Sparrow Health System,Sparrow Hospital Lansing,Ingham,48912,632,3.20E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,30.5
+Sparrow_Specialty,Sparrow Health System,Sparrow Specialty Hospital,Ingham,48912,30,4.64E+07,"Voluntary Nonprofit, Other",Rural,Long Term,0
+SpectrumHealth_BigRapidsHospital,Spectrum Health,Spectrum Health Big Rapids Hospital,Mecosta,49307,49,2.10E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,37.67
+SpectrumHealth_BlodgettHospital,Spectrum Health,Spectrum Health Blodgett Hospital,Kent,49506,291,NaN,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,0
+SpectrumHealth_ButterworthHospital,Spectrum Health,Spectrum Health Butterworth Hospital,Kent,49503,1377,5.22E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,29.5
+SpectrumHealth_GerberMemorial,Spectrum Health,Spectrum Health Gerber Memorial,Newaygo,49412,25,2.39E+08,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+SpectrumHealth_HelenDevosChildrensHospital,Spectrum Health,Helen DeVos Children's Hospital,Kent,49503,0,NaN,"Voluntary Nonprofit, Other",Urban,Childrens,0
+SpectrumHealth_KelseyHospital,Spectrum Health,Spectrum Health Kelsey Hospital,Montcalm,48850,43,3.92E+07,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+SpectrumHealth_LakelandHospitalWatervliet,Spectrum Health,Spectrum Health Lakeland Hospital Watervliet,Berrien,49098,49,4.40E+07,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,0
+SpectrumHealth_LakelandMedicalCenter,Spectrum Health,Spectrum Health Lakeland Medical Center,Berrien,49085,290,0,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,30.25
+SpectrumHealth_LudingtonHospital,Spectrum Health,Spectrum Health Ludington Hospital,Mason,49431,45,2.49E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,59.5
+SpectrumHealth_PennockHospital,Spectrum Health,Spectrum Health Pennock,Barry,49058,25,1.86E+08,"Voluntary Nonprofit, Other",Rural,Critical Access,0
+SpectrumHealth_ReedCityHospital,Spectrum Health,Spectrum Health Reed City Hospital,Osceola,49677,75,1.63E+08,"Voluntary Nonprofit, Other",Urban,Critical Access,0
+SpectrumHealth_UnitedHospital,Spectrum Health,Spectrum Health United Hospital,Montcalm,48838,88,3.02E+08,"Voluntary Nonprofit, Other",Rural,Short Term Acute Care,56.33
+SpectrumHealth_ZeelandCommunityHospital,Spectrum Health,Spectrum Health Zeeland Community Hospital,Ottawa,49464,55,2.05E+08,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,71
+Trinity_MercyHealthHackley,Trinity Health,Mercy Health Hackley Campus,Muskegon,49442,329,1.40E+09,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,40.25
+Trinity_MercyHealthLakeshore,Trinity Health,Mercy Health Lakeshore Campus,Oceana,49455,24,5.33E+07,"Voluntary Nonprofit, Church",Rural,Critical Access,0
+Trinity_MercyHealthMuskegon,Trinity Health,Mercy Health Mercy Campus,Muskegon,49444,160,NaN,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,37.32
+Trinity_SaintMarysGrandRapids,Trinity Health,Mercy Health Saint Mary's,Kent,49503,303,1.34E+09,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,39
+Trinity_StJoeAnnArbor,Trinity Health,St. Joseph Mercy Ann Arbor,Washtenaw,48197,507,2.55E+09,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,40.75
+Trinity_StJoeChelsea,Trinity Health,St. Joseph Mercy Chelsea,Washtenaw,48118,133,5.03E+08,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,76.67
+Trinity_StJoeLivingston,Trinity Health,St. Joseph Mercy Livingston,Livingston,48843,42,4.78E+08,"Voluntary Nonprofit, Church",Rural,Short Term Acute Care,50.33
+Trinity_StJoeLivonia,Trinity Health,St. Mary Mercy Livonia Hospital,Wayne,48154,304,8.79E+08,"Voluntary Nonprofit, Church",Urban,Short Term Acute Care,29.5
+Trinity_StJoeOakland,Trinity Health,St. Joseph Mercy Oakland,Oakland,48341,443,1.13E+09,"Voluntary Nonprofit, Other",Urban,Short Term Acute Care,28.75
+UniversityOfMichigan_All,University of Michigan Health System,University of Michigan Hospitals & Health Centers,Washtenaw,48109,1007,9.51E+09,"Governmental, Other",Urban,Short Term Acute Care,38.75

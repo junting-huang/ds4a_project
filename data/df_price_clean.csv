@@ -1,0 +1,598 @@
+hospital_name,cpt_code,description,gross_charge,cash_price,min_ng,max_ng
+Ascension_Borgess,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,2512,1632.8,205.55,264.375
+Ascension_Borgess,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2198,1428.7,568.05,706.95
+Ascension_Borgess,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,93,60,6.04,10.65
+Ascension_Borgess,59409,VAGINAL DELIVERY ONLY,5412,3517.8,,
+Ascension_Borgess,99203,OFFICE OUTPATIENT NEW 30 MINUTES,176,114.4,,
+Ascension_Borgess,85027,BLOOD COUNT COMPLETE AUTOMATED,83,54,5.03,7.18
+Ascension_BorgessLee,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,785,510.25,62.71,290.8125
+Ascension_BorgessLee,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2211,1437.15,109.75,777.645
+Ascension_BorgessLee,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,95,62,8.06,8.06
+Ascension_BorgessLee,85027,BLOOD COUNT COMPLETE AUTOMATED,81,53,6.7,6.7
+Ascension_BorgessLee,99203,OFFICE OUTPATIENT NEW 30 MINUTES,152,98,,
+Ascension_BorgessPipp,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,2512,1632.8,205.55,264.375
+Ascension_BorgessPipp,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2198,1428.7,568.05,706.95
+Ascension_BorgessPipp,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,93,60,6.04,10.65
+Ascension_Genesys,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,4299,1935,58.3,596.19
+Ascension_Genesys,59409,VAGINAL DELIVERY ONLY,,,1195.23,1438.96
+Ascension_Genesys,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,3256,1465,99.3726,220.17
+Ascension_Genesys,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,998,449,208.7045,408.75
+Ascension_Genesys,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,39,17,6.41,10.6
+Ascension_Genesys,85027,BLOOD COUNT COMPLETE AUTOMATED,24,11,5.33,8.4
+Ascension_Genesys,99203,OFFICE OUTPATIENT NEW 30 MINUTES,139.75,62.89,70.53,107.73
+Ascension_MacombMadisonHeights,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,5193,2856,1529.9952,1529.9952
+Ascension_MacombMadisonHeights,59409,VAGINAL DELIVERY ONLY,,,2028.61,2028.61
+Ascension_MacombMadisonHeights,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,2380,1309,85.39,424.1
+Ascension_MacombMadisonHeights,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2277,1252,181.51,1057.525
+Ascension_MacombMadisonHeights,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,45,25,7.3528,12.37
+Ascension_MacombMadisonHeights,85027,BLOOD COUNT COMPLETE AUTOMATED,39,21,6.1168,7.39
+Ascension_MacombMadisonHeights,99203,OFFICE OUTPATIENT NEW 30 MINUTES,,,124.68,147.6105
+Ascension_ProvidenceNoviCampus,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,11069,6088,542.7405,1731.0284
+Ascension_ProvidenceNoviCampus,59409,VAGINAL DELIVERY ONLY,6746,3710,1619.6085,2030.56
+Ascension_ProvidenceNoviCampus,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,1888,1038,140.6573,150.6735
+Ascension_ProvidenceNoviCampus,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,1863,1025,287.5228,433.9845
+Ascension_ProvidenceNoviCampus,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,34,19,7.5405,13.959
+Ascension_ProvidenceNoviCampus,85027,BLOOD COUNT COMPLETE AUTOMATED,21,12,6.273,8.3565
+Ascension_ProvidenceNoviCampus,99203,OFFICE OUTPATIENT NEW 30 MINUTES,,,150.282,167.0057
+Ascension_ProvidenceRochester,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,2649,1431,440.05,843.2975
+Ascension_ProvidenceRochester,59409,VAGINAL DELIVERY ONLY,2277,1230,934.91,2184.45
+Ascension_ProvidenceRochester,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,2923,1580,57.71,264.38
+Ascension_ProvidenceRochester,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,411,222,99.65,424.17
+Ascension_ProvidenceRochester,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,24,13,8.0069,8.63
+Ascension_ProvidenceRochester,85027,BLOOD COUNT COMPLETE AUTOMATED,25,13,5.09,7.18
+Ascension_ProvidenceRochester,99203,OFFICE OUTPATIENT NEW 30 MINUTES,189,102,81.3594,127.41
+Ascension_ProvidenceSouthfieldCampus,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,8049,4427,262.7,2714.534
+Ascension_ProvidenceSouthfieldCampus,59409,VAGINAL DELIVERY ONLY,8694,4782,934.91,2096.95
+Ascension_ProvidenceSouthfieldCampus,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,1838,1011,73.53,424.1
+Ascension_ProvidenceSouthfieldCampus,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,1863,1025,157.19,1057.525
+Ascension_ProvidenceSouthfieldCampus,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,33,18,7.45,12.46
+Ascension_ProvidenceSouthfieldCampus,85027,BLOOD COUNT COMPLETE AUTOMATED,23,12,4.45,8.375
+Ascension_ProvidenceSouthfieldCampus,99203,OFFICE OUTPATIENT NEW 30 MINUTES,,,127.4614,261.8921
+Ascension_Standish,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,92,56,6.33,6.33
+Ascension_Standish,85027,BLOOD COUNT COMPLETE AUTOMATED,15,9,5.27,5.27
+Ascension_StJohn,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,7175,3946,542.7405,1498.0898
+Ascension_StJohn,59409,VAGINAL DELIVERY ONLY,3732,2052.6,1619.6085,2029.1
+Ascension_StJohn,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,2067,1137,86.03,290.4
+Ascension_StJohn,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,1455,800,183.91,739.75
+Ascension_StJohn,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,30,16,7.9294,13.959
+Ascension_StJohn,85027,BLOOD COUNT COMPLETE AUTOMATED,25,14,6.34,8.375
+Ascension_StJohn,99203,OFFICE OUTPATIENT NEW 30 MINUTES,,,127.46,150.282
+Ascension_StJoseph,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,67,48,6.33,6.33
+Ascension_StJoseph,85027,BLOOD COUNT COMPLETE AUTOMATED,120,85,5.27,5.27
+Ascension_StMarys,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,3068,1871,3452,3452
+Ascension_StMarys,59409,VAGINAL DELIVERY ONLY,,,3962,3962
+Ascension_StMarys,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,3010,1836,158.625,158.625
+Ascension_StMarys,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2515,1534,424.17,424.17
+Ascension_StMarys,85025,BLOOD COUNT COMPLETE AUTO&AUTO DIFRNTL WBC,47,28,6.04,10.94
+Ascension_StMarys,85027,BLOOD COUNT COMPLETE AUTOMATED,68,41,5.03,9.11
+Ascension_BorgessPipp,85027,BLOOD COUNT COMPLETE AUTOMATED,83,54,5.03,7.18
+Ascension_BorgessPipp,59409,VAGINAL DELIVERY ONLY,5412,3517.8,,
+Ascension_BorgessPipp,99203,OFFICE OUTPATIENT NEW 30 MINUTES,176,114.4,,
+Ascension_Standish,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,3026,1846,,
+Ascension_Standish,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,2258,1378,,
+Ascension_StJoseph,70450,CT HEAD/BRAIN W/O CONTRAST MATERIAL,1729,1228,,
+Ascension_StJoseph,70551,MRI BRAIN BRAIN STEM W/O CONTRAST MATERIAL,1421,1009,,
+Aspirus_IronRiver,99203,"OFFICE/OUTPT VISIT,NEW,LEVL III",264,171.6,,
+Aspirus_IronRiver,85027,HEMOGRAM,85,55.25,,
+Aspirus_IronRiver,85025,CBC WITH DIFFERENTIAL,107,69.55,,
+Aspirus_IronRiver,70551,MRI BRAIN W/O DYE,738,479.7,,
+Aspirus_IronRiver,70450,CT HEAD/BRAIN W/O DYE,404,262.6,,
+Aspirus_IronRiver,59409,VAGINAL DELIVERY ONLY,6053,3934.45,,
+Aspirus_IronRiver,45378,"COLONOSCOPY, FLEXIBLE DIAGNOSTIC",2150,1397.5,,
+Aspirus_Ironwood,99203,"OFFICE/OUTPT VISIT,NEW,LEVL III",264,171.6,,
+Aspirus_Ironwood,85027,HEMOGRAM,85,55.25,,
+Aspirus_Ironwood,85025,CBC WITH DIFFERENTIAL,107,69.55,,
+Aspirus_Ironwood,70551,MRI BRAIN W/O DYE,738,479.7,,
+Aspirus_Ironwood,70450,CT HEAD/BRAIN W/O DYE,404,262.6,,
+Aspirus_Ironwood,59409,OBSTETRICAL CARE,3070,1995.5,,
+Aspirus_Ironwood,45378,"COLONOSCOPY, FLEXIBLE DIAGNOSTIC",2150,1397.5,,
+Aspirus_Keweenaw,99203,"OFFICE/OUTPT VISIT,NEW,LEVL III",264,171.6,,
+Aspirus_Keweenaw,85027,HEMOGRAM,85,55.25,,
+Aspirus_Keweenaw,85025,CBC WITH DIFFERENTIAL,107,69.55,,
+Aspirus_Keweenaw,70551,MRI BRAIN W/O DYE,738,479.7,,
+Aspirus_Keweenaw,70450,CT HEAD/BRAIN W/O DYE,404,262.6,,
+Aspirus_Keweenaw,59409,OBSTETRICAL CARE,3070,1995.5,,
+Aspirus_Keweenaw,45378,"COLONOSCOPY, FLEXIBLE DIAGNOSTIC",2150,1397.5,,
+Aspirus_Ontonagon,99203,"OFFICE/OUTPT VISIT,NEW,LEVL III",264,171.6,,
+Aspirus_Ontonagon,85027,HEMOGRAM,85,55.25,,
+Aspirus_Ontonagon,85025,CBC WITH DIFFERENTIAL,107,69.55,,
+Aspirus_Ontonagon,70551,MRI BRAIN W/O DYE,738,479.7,,
+Aspirus_Ontonagon,70450,CT HEAD/BRAIN W/O DYE,404,262.6,,
+Aspirus_Ontonagon,45378,"COLONOSCOPY, FLEXIBLE DIAGNOSTIC",2150,1397.5,,
+Beaumont_Dearborn,99203,"E&M, NEW, DETAILED",328,79,24,165
+Beaumont_Dearborn,85027,CBC AUTOMATED,,,4,30
+Beaumont_Dearborn,85025,Complete Cbc Wauto Diff Wbc,,,5,26
+Beaumont_Dearborn,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2491
+Beaumont_Dearborn,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_Dearborn,59409,VAGINAL DELIVERY ONLY,7869,1889,1804,4061
+Beaumont_FarmingtonHills,99203,"E&M, NEW, DETAILED",328,79,51,189
+Beaumont_FarmingtonHills,85027,CBC AUTOMATED,,,1,25
+Beaumont_FarmingtonHills,85025,Complete Cbc Wauto Diff Wbc,,,1,38
+Beaumont_FarmingtonHills,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,1466
+Beaumont_FarmingtonHills,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1407
+Beaumont_FarmingtonHills,59409,Vaginal Delivery Only,7869,1889,1728,4549
+Beaumont_FarmingtonHills,45378,Colonoscopy W/ Or W/o Spec Coll Brsh,2054,493,493,1956
+Beaumont_GrossePointe,99203,"E&M, NEW, DETAILED",328,79,51,196
+Beaumont_GrossePointe,85027,CBC AUTOMATED,,,4,26
+Beaumont_GrossePointe,85025,Complete Cbc Wauto Diff Wbc,,,5,39
+Beaumont_GrossePointe,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2079
+Beaumont_GrossePointe,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_GrossePointe,59409,Vaginal Delivery Only,7869,1889,1731,5137
+Beaumont_GrossePointe,45378,Colonoscopy W/ Or W/o Spec Coll Brsh,2054,493,493,1801
+Beaumont_RoyalOak,99203,Op Visit-new Patient-low Comp,328,79,51,219
+Beaumont_RoyalOak,85027,CBC AUTOMATED,,,4,26
+Beaumont_RoyalOak,85025,CBC W/ AUTO DIFFERENTIAL WBC COUNT,,,5,39
+Beaumont_RoyalOak,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2079
+Beaumont_RoyalOak,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_RoyalOak,59409,VAGINAL DELIVERY ONLY,7869,1889,1756,5137
+Beaumont_RoyalOak,45378,Colonoscopy W/ Or W/o Spec Coll Brsh,2054,493,493,1801
+Beaumont_Taylor,99203,"E&M, NEW, DETAILED",328,79,24,165
+Beaumont_Taylor,85027,CBC AUTOMATED,,,4,26
+Beaumont_Taylor,85025,Complete Cbc Wauto Diff Wbc,,,5,23
+Beaumont_Taylor,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2491
+Beaumont_Taylor,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_Taylor,59409,VAGINAL DELIVERY ONLY,7869,1889,1783,4275
+Beaumont_Trenton,99203,"E&M, NEW, DETAILED",328,79,24,165
+Beaumont_Trenton,85027,CBC AUTOMATED,,,4,26
+Beaumont_Trenton,85025,Complete Cbc Wauto Diff Wbc,,,5,23
+Beaumont_Trenton,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2491
+Beaumont_Trenton,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_Trenton,59409,VAGINAL DELIVERY ONLY,7869,1889,1769,4275
+Beaumont_Troy,99203,"E&M, NEW, DETAILED",328,79,51,219
+Beaumont_Troy,85027,CBC AUTOMATED,,,4,26
+Beaumont_Troy,85025,Complete Cbc Wauto Diff Wbc,,,5,39
+Beaumont_Troy,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2079
+Beaumont_Troy,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_Troy,59409,Vaginal Delivery Only,7869,1889,1769,5137
+Beaumont_Troy,45378,Colonoscopy W/ Or W/o Spec Coll Brsh,2054,493,493,1801
+Beaumont_Wayne,99203,"E&M, NEW, DETAILED",328,79,24,165
+Beaumont_Wayne,85027,CBC AUTOMATED,,,4,26
+Beaumont_Wayne,85025,Complete Cbc Wauto Diff Wbc,,,5,23
+Beaumont_Wayne,70551,70551 MRI BRAIN WO CONTRAST,3699,888,142,2491
+Beaumont_Wayne,70450,70450 CT HEAD/BRAIN WO CONTRAST,1847,443,68,1530
+Beaumont_Wayne,59409,VAGINAL DELIVERY ONLY,7869,1889,1777,4275
+Bronson_BattleCreek,85025,Lab Test - Complete Blood Cell Count,27.34,21.88,4.1,26.33
+Bronson_BattleCreek,85027,Lab Test - Complete Blood Cell Count,27.34,21.88,4.1,26.33
+Bronson_BattleCreek,99203,Outpatient Clinic Visit,264.01,211.2,60.28,370.47
+Bronson_BattleCreek,70551,MRI Of Brain Without Contrast,1992.4,1593.92,116.98,1693.54
+Bronson_BattleCreek,70450,CAT Scan Of Head Or Brain Without Contrast,1480.92,1184.73,60.5,1261.78
+Bronson_BattleCreek,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2267.99,1814.39,319.13,2229.81
+Bronson_Lakeview,85025,Lab Test - Complete Blood Cell Count,26.1528,26.1528,4.1358,39.83
+Bronson_Lakeview,85027,Lab Test - Complete Blood Cell Count,26.1528,26.1528,4.1358,39.83
+Bronson_Lakeview,70551,MRI Of Brain Without Contrast,1992.4,1992.4,116.89,1992.4
+Bronson_Lakeview,70450,CAT Scan Of Head Or Brain Without Contrast,1482.492,1482.492,82.2346,1336.01
+Bronson_Lakeview,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,1899.8492,1899.8492,377.66,2731.41
+Bronson_Methodist,85025,Lab Test - Complete Blood Cell Count,27.43,27.43,3.95,26.85
+Bronson_Methodist,85027,Lab Test - Complete Blood Cell Count,27.43,27.43,3.95,26.85
+Bronson_Methodist,99203,Outpatient Clinic Visit,304.24,304.24,60.66,399.56
+Bronson_Methodist,70551,MRI Of Brain Without Contrast,1991.3,1991.3,116.99,1992.4
+Bronson_Methodist,70450,CAT Scan Of Head Or Brain Without Contrast,1481.75,1481.75,56.38,1484.45
+Bronson_Methodist,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2339.13,2339.13,362.06,2162.78
+Bronson_SouthHaven,85025,Lab Test - Complete Blood Cell Count,27.59,22.07,4.07,40.51
+Bronson_SouthHaven,85027,Lab Test - Complete Blood Cell Count,27.59,22.07,4.07,40.51
+Bronson_SouthHaven,70551,MRI Of Brain Without Contrast,1992.4,1593.92,116.89,1793.16
+Bronson_SouthHaven,70450,CAT Scan Of Head Or Brain Without Contrast,1481.69,1185.35,69.93,1484.45
+Bronson_SouthHaven,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2104.21,1683.37,1788.93,1788.93
+DetroitMedicalCenter_ChildrenHospital,85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",33,24.75,3.6,20.14
+DetroitMedicalCenter_ChildrenHospital,85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",39,29.25,3.42,25.99
+DetroitMedicalCenter_ChildrenHospital,70551,MRI scan brain,4494,3370.5,168.76,1059.34
+DetroitMedicalCenter_ChildrenHospital,70450,CT scan head or brain,2460,1845,83.27,953.17
+DetroitMedicalCenter_ChildrenHospital,45378,Diagnostic examination of the colon (large bowel) using an endoscope(colonoscopy); high risk,15923.41,11942.56,796.17,796.17
+DetroitMedicalCenter_DetroitReceivingHospital,85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",43,32.25,3.69,21.2
+DetroitMedicalCenter_DetroitReceivingHospital,85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",54,40.5,5.46,20.21
+DetroitMedicalCenter_DetroitReceivingHospital,70551,MRI scan brain,3814,2860.5,362.33,362.33
+DetroitMedicalCenter_DetroitReceivingHospital,70450,CT scan head or brain,2983.69,2237.77,73.71,942.57
+DetroitMedicalCenter_DetroitReceivingHospital,45378,Diagnostic examination of the colon (large bowel) using an endoscope(colonoscopy); high risk,17428.84,13071.63,826.81,3257.85
+DetroitMedicalCenter_HarperUniversity,85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",53,39.75,3.6,20.52
+DetroitMedicalCenter_HarperUniversity,85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",56,42,4.22,19.41
+DetroitMedicalCenter_HarperUniversity,70551,MRI scan brain,3715,2786.25,145,763.11
+DetroitMedicalCenter_HarperUniversity,70450,CT scan head or brain,1859,1394.25,65.24,442.89
+DetroitMedicalCenter_HarperUniversity,59409,Vaginal delivery,13715.93,10286.95,1303.01,1303.01
+DetroitMedicalCenter_HarperUniversity,45378,Diagnostic examination of the colon (large bowel) using an endoscope(colonoscopy); high risk,24878.7,18659.03,1492.72,7090.43
+DetroitMedicalCenter_HuronValleySinai,85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",47,35.25,7.71,14.9
+DetroitMedicalCenter_HuronValleySinai,85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",83,62.25,3.74,27.15
+DetroitMedicalCenter_HuronValleySinai,70551,MRI scan brain,3279,2459.25,207.69,427.19
+DetroitMedicalCenter_HuronValleySinai,70450,CT scan head or brain,1989.6,1492.2,87.21,784.32
+DetroitMedicalCenter_HuronValleySinai,45378,Diagnostic examination of the colon (large bowel) using an endoscope(colonoscopy); high risk,7981.88,5986.41,502.95,1862.67
+HenryFord_AllegianceHealth,99203,PR OFFICE/OP VISIT NEW LVL 3,192,154,0,137.79
+HenryFord_AllegianceHealth,85027,HB LAB CBC INCL PLATELETS,38,8.93,0,29.7
+HenryFord_AllegianceHealth,85025,HB LAB CBC AUTO & AUTO DIFF WBC,52,10.72,0,36
+HenryFord_AllegianceHealth,70551,HB MRI BRAIN/STEM W/O CONTRST,2538,314.34,0,2043
+HenryFord_AllegianceHealth,70450,HB CT HEAD / BRAIN W/O CONTRST,1929,151.18,0,918
+HenryFord_AllegianceHealth,59409,PR VAGINAL DELIVERY ONLY,3250,1148.12,0,1580.11
+HenryFord_AllegianceHealth,45378,"HB COLONOSCOPY, FLEXIBLE DIAGNOSTIC",980,259.32,0,399.76
+HenryFord_Hospital,99203,PR OFFICE/OP VISIT NEW LVL 3,192,154,42.39,169
+HenryFord_Hospital,85027,HB LAB CBC INCL PLATELETS,33,8.93,0,22.11
+HenryFord_Hospital,85025,HB LAB CBC AUTO & AUTO DIFF WBC,40,10.72,0,26.8
+HenryFord_Hospital,70551,HB MRI BRAIN/STEM W/O CONTRST,2270,312.05,142.15,1520.9
+HenryFord_Hospital,70450,HB CT HEAD / BRAIN W/O CONTRST,1020,150.08,68.37,1020
+HenryFord_Hospital,59409,PR VAGINAL DELIVERY ONLY,3250,1287.4,790.37,2324.79
+HenryFord_Hospital,45378,"PR COLONOSCOPY FLEXIBLE, DIAGNOSTIC",620,279.28,105.98,620
+HenryFord_Kingswood,85027,HB LAB CBC INCL PLATELETS,33,,,
+HenryFord_Kingswood,85025,HB LAB CBC AUTO & AUTO DIFF WBC,40,,,
+HenryFord_Kingswood,70450,HB CT HEAD / BRAIN W/O CONTRST,1020,,,
+HenryFord_Macomb,99203,PR OFFICE/OP VISIT NEW LVL 3,169,154,0,141.38
+HenryFord_Macomb,85027,HB LAB CBC INCL PLATELETS,33,8.93,3.95,28.38
+HenryFord_Macomb,85025,HB LAB CBC AUTO & AUTO DIFF WBC,40,10.72,4.74,34.4
+HenryFord_Macomb,70551,HB MRI BRAIN/STEM W/O CONTRST,2270,316.27,142.15,1952.2
+HenryFord_Macomb,70450,HB CT HEAD / BRAIN W/O CONTRST,1020,152.1,68.37,937
+HenryFord_Macomb,59409,PR VAGINAL DELIVERY ONLY,3250,1287.4,0,1658.7
+HenryFord_Macomb,45378,"HB COLONOSCOPY, FLEXIBLE DIAGNOSTIC",980,279.28,0,510.58
+HenryFord_WestBloomfield,99203,PR OFFICE/OP VISIT NEW LVL 3,169,154,42.39,169
+HenryFord_WestBloomfield,85027,HB LAB CBC INCL PLATELETS,33,8.93,3.95,22.11
+HenryFord_WestBloomfield,85025,HB LAB CBC AUTO & AUTO DIFF WBC,40,10.72,4.74,26.8
+HenryFord_WestBloomfield,70551,HB MRI BRAIN/STEM W/O CONTRST,2270,326.48,142.15,1649
+HenryFord_WestBloomfield,70450,HB CT HEAD / BRAIN W/O CONTRST,1020,157.02,68.37,1020
+HenryFord_WestBloomfield,59409,PR VAGINAL DELIVERY ONLY,3250,1287.4,790.37,2324.79
+HenryFord_WestBloomfield,45378,"HB COLONOSCOPY, FLEXIBLE DIAGNOSTIC",620,279.28,105.98,620
+HenryFord_Wyandotte,99203,PR OFFICE/OP VISIT NEW LVL 3,169,154,42.39,169
+HenryFord_Wyandotte,85027,HB LAB CBC INCL PLATELETS,33,8.93,3.95,23.1
+HenryFord_Wyandotte,85025,HB LAB CBC AUTO & AUTO DIFF WBC,40,10.72,4.74,28
+HenryFord_Wyandotte,70551,HB MRI BRAIN/STEM W/O CONTRST,2270,312.05,142.15,1358
+HenryFord_Wyandotte,70450,HB CT HEAD / BRAIN W/O CONTRST,1020,150.08,68.37,1020
+HenryFord_Wyandotte,59409,PR VAGINAL DELIVERY ONLY,3250,1287.4,790.37,1985.21
+HenryFord_Wyandotte,45378,"HB COLONOSCOPY, FLEXIBLE DIAGNOSTIC",980,279.28,105.98,611.09
+McLaren_BayRegion,99203,OFFICE/OUTPATIENT VISIT NEW 30 MIN,119,59.5,41.71,101.75
+McLaren_BayRegion,85027,COMPLETE CBC AUTOMATED,38.7,19.35,3.29,33.09
+McLaren_BayRegion,85025,COMPLETE CBC W/AUTO DIFF WBC,51.2,25.6,3.94,43.78
+McLaren_BayRegion,70551,BRAIN,1324,662,116.81,1132.02
+McLaren_BayRegion,70450,HEAD W/O IV CONTRAST,1169.6,584.8,55.31,1000.01
+McLaren_BayRegion,45378,TEST ISM ENDO CLB,750,375,262.88,911.98
+McLaren_BaySpecialCare,99203,OFFICE/OUTPATIENT VISIT NEW 30 MIN,119,59.5,41.71,101.75
+McLaren_BaySpecialCare,85027,COMPLETE CBC AUTOMATED,38.7,19.35,3.29,33.09
+McLaren_BaySpecialCare,85025,COMPLETE CBC W/AUTO DIFF WBC,51.2,25.6,3.94,43.78
+McLaren_BaySpecialCare,70551,BRAIN,1324,662,116.81,1132.02
+McLaren_BaySpecialCare,70450,HEAD W/O IV CONTRAST,1169.6,584.8,55.31,1000.01
+McLaren_BaySpecialCare,45378,TEST ISM ENDO CLB,750,375,262.88,911.98
+McLaren_CaroCommunityHospital,99203,NEW PATIENT VISIT LEVEL 3,50,25,,
+McLaren_CaroCommunityHospital,85027,CBC W/O DIFFERENTIAL,54,27,,
+McLaren_CaroCommunityHospital,85025,CBC WITH AUTO DIFF,70.5,35.25,,
+McLaren_CaroCommunityHospital,70450,HEAD W/O CONTRAST,1099.5,549.75,,
+McLaren_Central,99203,NEW PATIENT VISIT LEVEL 3,146,73,64.39,131.4
+McLaren_Central,85027,BO CBCND (M),32.5,16.25,3.95,29.25
+McLaren_Central,85025,CBC W/ DIFF POC,69,34.5,4.74,62.1
+McLaren_Central,70551,MRI BRAIN W/O CONT HYDROCEPHALUS SCREEN,2672.5,1336.25,140.38,2405.25
+McLaren_Central,70450,CT BRAIN/HEAD W/O CONT STROKE PROTOCOL,1597.1,798.55,66.47,1437.39
+McLaren_Central,59409,VAGINAL DELIVERY ONLY,5131,2565.5,1600.16,4617.9
+McLaren_Central,45378,DIAGNOSTIC COLONOSCOPY,2769.85,1384.92,484.13,2492.86
+McLaren_Flint,99203,NEW PATIENT (30 MIN),100,50,28,275
+McLaren_Flint,85027,COMPLETE CBC AUTOMATED,26.7,13.35,3.85,22.7
+McLaren_Flint,85025,COMPLETE CBC W/AUTO DIFF WBC,68.9,34.45,4.62,275
+McLaren_Flint,70551,MR IMAG BRAIN W/O CONTRAST,1614.5,807.25,136.93,1372.33
+McLaren_Flint,70450,CT HEAD W/O CONTRAST,774.2,387.1,64.84,658.07
+McLaren_Flint,59409,VAGINAL DELIVERY ONLY,2245.4,1122.7,275,2802.98
+McLaren_Flint,45378,COLONOSCOPY,2159.6,1079.8,275,1835.66
+McLaren_GreaterLansing,99203,OFFICE VISIT LEVEL 3 NEW PROFESSIONAL 99203 ONC (M,113,56.5,45.17,90.4
+McLaren_GreaterLansing,85027,CBC NO DIFF (HEMOGRAM) (M),33.8,16.9,6.47,27.04
+McLaren_GreaterLansing,85025,CBC W/ DIFF POC,23,11.5,7.77,18.4
+McLaren_GreaterLansing,70551,MRI IAC W/O CONTRAST,2971.8,1485.9,223.59,2377.44
+McLaren_GreaterLansing,70450,CT BRAIN/HEAD W/O CONT STROKE PROTOCOL,2069.6,1034.8,105.87,1655.68
+McLaren_GreaterLansing,59409,VAGINAL DELIVERY ONLY,3011.7,1505.85,1203.78,2548.61
+McLaren_GreaterLansing,45378,DIAGNOSTIC COLONOSCOPY,115.94,57.97,46.34,771.08
+McLaren_KarmanosCancerInstitute,99203,99203 - OUTPT OV NEW 30 M,129,64.5,47.6,129
+McLaren_KarmanosCancerInstitute,85027,BLOOD CBC W/O DIFFERENT,29.1,14.55,3.36,22.9
+McLaren_KarmanosCancerInstitute,85025,CBC W/AUTOMATED DIFFERENT,34.3,17.15,4.04,26.99
+McLaren_KarmanosCancerInstitute,70551,MRI-BRAIN/STEM (W/O CONTR,3069.6,1534.8,140.38,2415.78
+McLaren_KarmanosCancerInstitute,70450,CT-HEAD (W/O CONTRAST),1464.4,732.2,66.47,1152.48
+McLaren_KarmanosCancerInstitute,45378,DIAGNOSTIC COLONOSCOPY,640.64,320.32,236.4,640.64
+McLaren_Lapeer,99203,OFFICE/OUTPATIENT VISIT NEW 30 MIN,140,70,41.17,140
+McLaren_Lapeer,85027,COMPLETE CBC AUTOMATED,37.4,18.7,3.95,37.4
+McLaren_Lapeer,85025,COMPLETE CBC W/AUTO DIFF WBC,65.4,32.7,4.74,65.4
+McLaren_Lapeer,70551,MR IMAG BRAIN;W/O CONTRST MATERIAL,1776.4,888.2,140.38,1776.4
+McLaren_Lapeer,70450,HEAD W/O CONTRAST,1341.1,670.55,66.47,1341.1
+McLaren_Lapeer,59409,VAGINAL DELIVERY ONLY,2245.4,1122.7,660.37,2621.16
+McLaren_Lapeer,45378,"COLONOSCOPY, FLEX, DX",2134.9,1067.45,484.13,2134.9
+McLaren_Macomb,99203,OFFICE OUTPATIENT VISIT NEW LVL 3,130,65,71.5,117
+McLaren_Macomb,85027,PBC WITH PLT COUNT,29,14.5,3.85,26.1
+McLaren_Macomb,85025,COMPLETE CBC W/AUTO DIFF WBC,17,8.5,4.62,17
+McLaren_Macomb,70551,BRAIN W/O CONTRAST - MRI,3253,1626.5,136.21,2927.7
+McLaren_Macomb,70450,BRAIN W/O CONTRAST-CT,1330,665,64.5,1197
+McLaren_Macomb,45378,TEST ISM ENDO TAC,1500,750,469.76,1500
+McLaren_NorthernMichigan,85027,CBC/COMPLETE BLOOD COUNT,24.8,12.4,3.95,22.32
+McLaren_NorthernMichigan,85025,CBC W/AUTO DIFFERENTIAL,55.2,27.6,4.74,49.68
+McLaren_NorthernMichigan,70551,MRI BRAIN WO/CONTRAST,2183.5,1091.75,140.38,1965.15
+McLaren_NorthernMichigan,70450,HEAD WO/CONTRAST,1340.4,670.2,66.47,1206.36
+McLaren_NorthernMichigan,59409,OBSTETRICAL CARE/VAG DLV,2850,1425,1079.01,2565
+McLaren_NorthernMichigan,45378,DIAGNOSTIC COLONOSCOPY,2040.01,1020,484.13,1836
+McLaren_Oakland,99203,LOW COMPLEXITY O.V. NEW,233,116.5,122.88,233
+McLaren_Oakland,85027,CBC,22.88,11.44,3.95,22.88
+McLaren_Oakland,85025,CBC & DIFF,33.7,16.85,4.74,33.7
+McLaren_Oakland,70551,MRI BRAIN,2467.7,1233.85,140.38,2467.7
+McLaren_Oakland,70450,CT HEAD W/O CONTR,1624.5,812.25,66.47,1624.5
+McLaren_Oakland,59409,EMERG VAG DELIVERY,5520.8,2760.4,1600.16,5520.8
+McLaren_Oakland,45378,COLONOSCOPY,1105.1,552.55,484.13,1105.1
+McLaren_PortHuron,99203,4 N FAM BP NEW PAT LVL 3 99203,245,122.5,64.1,245
+McLaren_PortHuron,85027,"CBC,NO DIFF,AUTO 85027 MERCY",21,10.5,3.95,21
+McLaren_PortHuron,85025,CBC WITH AUTO DIFF 85025,43.3,21.65,4.74,43.3
+McLaren_PortHuron,70551,MR HEAD/BRAIN WO CON,1784.3,892.15,137.76,1784.3
+McLaren_PortHuron,70450,CT HEAD/BRAIN WO CON,1344.1,672.05,66.47,1344.1
+McLaren_PortHuron,59409,OBSTETRICAL CARE,10109.84,5054.92,823.6,10109.84
+McLaren_PortHuron,45378,COLONOSCOPY 45378,1598.3,799.15,484.13,1598.3
+McLaren_ThumbRegion,99203,OFFICE VISIT NP MODERATE SEVERITY,187,93.5,,
+McLaren_ThumbRegion,85027,CBC AUTOMATED,60,30,,
+McLaren_ThumbRegion,85025,CBC W/ AUTO DIFF&PLATELET,76,38,,
+McLaren_ThumbRegion,70450,CT BRAIN W O CONTRAST,1574,787,,
+McLaren_ThumbRegion,59409,DELIVERY CHARGE,3796,1898,,
+McLaren_ThumbRegion,45378,DIAGNOSTIC COLONOSCOPY,4647.33,2323.67,,
+MidMichigan_Alpena,85027,HC COMPLETE BLOOD COUNT AUTOMATED,33,20,10,33
+MidMichigan_Alpena,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,48,29,12,73
+MidMichigan_Alpena,70551,HC MRI BRAIN WITHOUT CONTRAST,2293,1376,1271,2178
+MidMichigan_Alpena,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,1181,709,767,1604
+MidMichigan_Clare,85027,HC COMPLETE BLOOD COUNT AUTOMATED,33,20,10,52
+MidMichigan_Clare,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,49,29,12,74
+MidMichigan_Clare,70551,HC MRI BRAIN WITHOUT CONTRAST,1738,1043,918,1651
+MidMichigan_Clare,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,1329,797,797,1412
+MidMichigan_Gladwin,85027,HC COMPLETE BLOOD COUNT AUTOMATED,33,20,10,31
+MidMichigan_Gladwin,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,48,29,12,46
+MidMichigan_Gladwin,70551,HC MRI BRAIN WITHOUT CONTRAST,1738,1043,456,1651
+MidMichigan_Gladwin,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,1181,709,440,1122
+MidMichigan_Gratiot,85027,HC COMPLETE BLOOD COUNT AUTOMATED,33,20,6,53
+MidMichigan_Gratiot,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,48,29,7,70
+MidMichigan_Gratiot,70551,HC MRI BRAIN WITHOUT CONTRAST,1853,1112,253,1760
+MidMichigan_Gratiot,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,1181,709,124,1479
+MidMichigan_Midland,85027,HC COMPLETE BLOOD COUNT AUTOMATED,33,20,10,59
+MidMichigan_Midland,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,48,29,12,75
+MidMichigan_Midland,70551,HC MRI BRAIN WITHOUT CONTRAST,1738,1043,943,1651
+MidMichigan_Midland,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,1181,709,641,1481
+MidMichigan_WestBranch,85027,HC COMPLETE BLOOD COUNT AUTOMATED,29,17,10,30
+MidMichigan_WestBranch,85025,HC COMPLETE BLOOD COUNT WITH AUTOMATED D,48,29,12,45
+MidMichigan_WestBranch,70551,HC MRI BRAIN WITHOUT CONTRAST,1250,750,676,1188
+MidMichigan_WestBranch,70450,HC CT HEAD/BRAIN WITHOUT CONTRAST,702,421,383,667
+MunsonHealthCare_Cadillac,85025,Lab Test - Complete Blood Cell Count,63.32,53.82,4.01,44.04
+MunsonHealthCare_Cadillac,85027,Lab Test - Complete Blood Cell Count,63.32,53.82,4.01,44.04
+MunsonHealthCare_Cadillac,70551,MRI Of Brain Without Contrast,2418.37,2055.62,118.59,1855.69
+MunsonHealthCare_Cadillac,70450,CAT Scan Of Head Or Brain Without Contrast,1315.34,1118.04,96.48,712.63
+MunsonHealthCare_Cadillac,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,3586.42,3048.46,333.49,1802.32
+MunsonHealthCare_Charlevoix,99203,Outpatient Clinic Visit,115.28,115.28,46,76.42
+MunsonHealthCare_Charlevoix,85025,Lab Test - Complete Blood Cell Count,56.06,56.06,46.74,46.74
+MunsonHealthCare_Charlevoix,70450,CAT Scan of Head or Brain Without Contrast,868,868,443.99,443.99
+MunsonHealthCare_Charlevoix,45378,Diagnostic Exam of Large Intestine Using Colonoscope,3310.35,3310.35,3147.47,3147.47
+MunsonHealthCare_Grayling,85025,Lab Test - Complete Blood Cell Count,65.83,55.95,3.48,45.86
+MunsonHealthCare_Grayling,85027,Lab Test - Complete Blood Cell Count,65.83,55.95,3.48,45.86
+MunsonHealthCare_Grayling,99203,Outpatient Clinic Visit,189.47,161.05,37.22,215.15
+MunsonHealthCare_Grayling,70551,MRI Of Brain Without Contrast,2319.27,1971.38,121.14,271.81
+MunsonHealthCare_Grayling,70450,CAT Scan Of Head Or Brain Without Contrast,1330.57,1130.98,100.57,679.5
+MunsonHealthCare_Grayling,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,4289.88,3646.4,355.26,3217.77
+MunsonHealthCare_Kalkaska,85025,Lab Test - Complete Blood Cell Count,40.04,34.03,4.92,41.2
+MunsonHealthCare_Kalkaska,85027,Lab Test - Complete Blood Cell Count,40.04,34.03,4.92,41.2
+MunsonHealthCare_Kalkaska,99203,Outpatient Clinic Visit,131.08,111.42,21.86,107.96
+MunsonHealthCare_Kalkaska,70551,MRI Of Brain Without Contrast,2429.9,2065.42,116.89,2065.42
+MunsonHealthCare_Kalkaska,70450,CAT Scan Of Head Or Brain Without Contrast,1067.26,907.17,84.4,919.49
+MunsonHealthCare_Kalkaska,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2403.23,2042.74,381.04,2111.85
+MunsonHealthCare_Manistee,85025,Lab Test - Complete Blood Cell Count,89.43,76.02,4.06,88.42
+MunsonHealthCare_Manistee,85027,Lab Test - Complete Blood Cell Count,89.43,76.02,4.06,88.42
+MunsonHealthCare_Manistee,99203,Outpatient Clinic Visit,99.17,84.3,19.5,128.25
+MunsonHealthCare_Manistee,70551,MRI Of Brain Without Contrast,3284.07,2791.46,162.93,2449.5
+MunsonHealthCare_Manistee,70450,CAT Scan Of Head Or Brain Without Contrast,2377.77,2021.1,114.02,1957.49
+MunsonHealthCare_Manistee,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,4251.51,3613.78,361.94,4136.95
+MunsonHealthCare_MedicalCenter,85025,Lab Test - Complete Blood Cell Count,66.03,56.13,3.96,33.55
+MunsonHealthCare_MedicalCenter,85027,Lab Test - Complete Blood Cell Count,66.03,56.13,3.96,33.55
+MunsonHealthCare_MedicalCenter,99203,Outpatient Clinic Visit,162.98,138.53,44.15,123.45
+MunsonHealthCare_MedicalCenter,70551,MRI Of Brain Without Contrast,2772.31,2356.46,117.41,2245.28
+MunsonHealthCare_MedicalCenter,70450,CAT Scan Of Head Or Brain Without Contrast,1271.05,1080.39,77.06,992.41
+MunsonHealthCare_MedicalCenter,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2576,2189.6,331.94,2106.08
+MunsonHealthCare_OtsegoMemorial,85025,Lab Test - Complete Blood Cell Count,60.92,51.78,4.38,58.9
+MunsonHealthCare_OtsegoMemorial,85027,Lab Test - Complete Blood Cell Count,60.92,51.78,4.38,58.9
+MunsonHealthCare_OtsegoMemorial,99203,Outpatient Clinic Visit,130.21,110.68,31.6,116
+MunsonHealthCare_OtsegoMemorial,70551,MRI Of Brain Without Contrast,2345.64,1993.79,118.4,1994.31
+MunsonHealthCare_OtsegoMemorial,70450,CAT Scan Of Head Or Brain Without Contrast,1334.22,1134.08,75.96,1105.89
+MunsonHealthCare_OtsegoMemorial,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,3127.69,2658.53,342.57,3233.26
+MunsonHealthCare_PaulOliverMemorial,85025,Lab Test - Complete Blood Cell Count,67.35,57.24,4.29,53.93
+MunsonHealthCare_PaulOliverMemorial,85027,Lab Test - Complete Blood Cell Count,67.35,57.24,4.29,53.93
+MunsonHealthCare_PaulOliverMemorial,70551,MRI Of Brain Without Contrast,2663.06,2263.6,1077.11,2059.26
+MunsonHealthCare_PaulOliverMemorial,70450,CAT Scan Of Head Or Brain Without Contrast,1249.87,1062.39,80.41,949.4
+MunsonHealthCare_PaulOliverMemorial,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,2432.28,2067.44,362.1,1836.21
+OSF_Healthcare,85027,BLOOD COUNT; HEMOGRAM & PLATELET COUNT,69,55.2,,
+OSF_Healthcare,85025,CBC - BLOOD COUNT; DIFFERENTIAL WBC,153,122.4,,
+OSF_Healthcare,70551,MRI BRAIN INC STEM W/O CONTRAST,3038,2430.4,,
+OSF_Healthcare,70450,CT HEAD/BRAIN W/O CONTRAST,1638,1310.4,,
+OSF_Healthcare,59409,VAGINAL DELIVERY ONLY,4421,3536.8,,
+PrimeHealthcare_GardenCity,70551,MRI BRAIN & STEM WO CNTRST,3587,222.41,135.67,1542.41
+PrimeHealthcare_GardenCity,70450,CT BRAIN WO CNTRST,2219,106.97,65.25,954.17
+PrimeHealthcare_GardenCity,85025,CBC AND DIFFERENTIAL,150,7.77,6.39,64.5
+PrimeHealthcare_GardenCity,85027,CBC-STROKE,114,6.47,3.82,49.02
+PrimeHealthcare_GardenCity,99203,E & M NEW PT INTERMED,249,,55.37,110.49
+PrimeHealthcare_LakeHuronMedicalCenter,45378,"HC COLONOSCOPY,DIAGNOSTIC",2546.7,,456.75,2292.03
+PrimeHealthcare_LakeHuronMedicalCenter,59409,"HC OBSTETRICAL CARE,VAG DELIV ONLY",3688.02,2456.88,1475.21,3439.63
+PrimeHealthcare_LakeHuronMedicalCenter,70551,HC MRI BRAIN,3587,229.19,139.81,3228.3
+PrimeHealthcare_LakeHuronMedicalCenter,70450,"HC CT SCAN,HEAD/BRAIN,W/O CONTRAST MATL",2219,110.23,67.24,1997.1
+PrimeHealthcare_LakeHuronMedicalCenter,85025,HC COMPLETE CBC & AUTO DIFF WBC,150,7.77,6.39,135
+PrimeHealthcare_LakeHuronMedicalCenter,85027,HC COMPLETE CBC,114,6.47,3.82,102.6
+PrimeHealthcare_LakeHuronMedicalCenter,99203,HC OFFICE OUTPATIENT NEW 30 MIN,352,114.02,55.37,316.8
+Promedica_CharlesAndVirginiaHickman,85025,Lab Test - Complete Blood Cell Count,86.4812,56.2128,4.0568,64.8966
+Promedica_CharlesAndVirginiaHickman,85027,Lab Test - Complete Blood Cell Count,86.4812,56.2128,4.0568,64.8966
+Promedica_CharlesAndVirginiaHickman,70551,MRI Of Brain Without Contrast,2670.9148,1736.0946,144.145,2556.45
+Promedica_CharlesAndVirginiaHickman,70450,CAT Scan Of Head Or Brain Without Contrast,2517.3986,1636.3091,99.74,2353.625
+Promedica_CharlesAndVirginiaHickman,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,4689.3479,3048.0761,294.5461,3567.41
+Promedica_ColdwaterRegional,85025,Lab Test - Complete Blood Cell Count,69.4996,45.1747,4.1114,57.6
+Promedica_ColdwaterRegional,85027,Lab Test - Complete Blood Cell Count,69.4996,45.1747,4.1114,57.6
+Promedica_ColdwaterRegional,99203,Outpatient Clinic Visit,145.4799,94.5619,53.1822,102.7346
+Promedica_ColdwaterRegional,70551,MRI Of Brain Without Contrast,2735.5522,1778.1089,116.89,1645.2
+Promedica_ColdwaterRegional,70450,CAT Scan Of Head Or Brain Without Contrast,1455.7256,946.2216,75.5961,876.6
+Promedica_ColdwaterRegional,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,3553.6552,2309.8759,273.1308,2540.4278
+Promedica_MonroeRegional,85025,Lab Test - Complete Blood Cell Count,55.9758,36.3843,3.932,47.7379
+Promedica_MonroeRegional,85027,Lab Test - Complete Blood Cell Count,55.9758,36.3843,3.932,47.7379
+Promedica_MonroeRegional,99203,Outpatient Clinic Visit,279.2049,181.4832,52.9829,151.4371
+Promedica_MonroeRegional,70551,MRI Of Brain Without Contrast,2120.9458,1378.6148,132.3533,1812.2
+Promedica_MonroeRegional,70450,CAT Scan Of Head Or Brain Without Contrast,1299.7179,844.8166,114.1099,1101.3166
+Promedica_MonroeRegional,45378,Diagnostic Exam Of Large Intestine Using Colonoscope,3207.307,2084.7496,368.8121,3433.15
+SelectMedical_AnnArbor,85027,CBC AUTOMATED W/PLT,89.13,,,
+SelectMedical_AnnArbor,85025,CBC W/AUTO PLT W/AUT,236.97,,,
+SelectMedical_AnnArbor,70551,MRI BRAIN W/O CONTRA,5895.25,,,
+SelectMedical_AnnArbor,70450,CT HEAD/BRAIN W/O CO,3446.47,,,
+SelectMedical_Downriver,85027,CBC AUTOMATED W/PLT,46.05,,,
+SelectMedical_Downriver,85025,CBC W/AUTO PLT W/AUT,70.16,,,
+SelectMedical_Downriver,70551,MRI BRAIN W/O CONTRA,5397.79,,,
+SelectMedical_Downriver,70450,CT HEAD/BRAIN W/O CO,2236.29,,,
+SelectMedical_Flint,85027,CBC AUTOMATED W/PLT,68.44,,,
+SelectMedical_Flint,85025,CBC W/AUTO PLT W/AUT,106.29,,,
+SelectMedical_Flint,70551,MRI BRAIN W/O CONTRA,2145.51,,,
+SelectMedical_Flint,70450,CT HEAD/BRAIN W/O CO,3937.75,,,
+SelectMedical_GrossePointe,85027,CBC AUTOMATED W/PLT,75.3,,,
+SelectMedical_GrossePointe,85025,CBC W/AUTO PLT W/AUT,139.51,,,
+SelectMedical_GrossePointe,70551,MRI BRAIN W/O CONTRA,5244.15,,,
+SelectMedical_GrossePointe,70450,CT HEAD/BRAIN W/O CO,2254.44,,,
+SelectMedical_Macomb,85027,CBC AUTOMATED W/PLT,69.37,,,
+SelectMedical_Macomb,85025,CBC W/AUTO PLT W/AUT,150.59,,,
+SelectMedical_Macomb,70551,MRI BRAIN W/O CONTRA,4147.91,,,
+SelectMedical_Macomb,70450,CT HEAD/BRAIN W/O CO,2201.31,,,
+SelectMedical_NorthwestDetroit,85027,CBC AUTOMATED W/PLT,63.19,,,
+SelectMedical_NorthwestDetroit,85025,CBC W/AUTO PLT W/AUT,89.69,,,
+SelectMedical_NorthwestDetroit,70551,MRI BRAIN W/O CONTRA,4646.21,,,
+SelectMedical_NorthwestDetroit,70450,CT HEAD/BRAIN W/O CO,2498.05,,,
+SelectMedical_Pontiac,85027,CBC AUTOMATED W/PLT,64.2,,,
+SelectMedical_Pontiac,85025,CBC W/AUTO PLT W/AUT,104.11,,,
+SelectMedical_Pontiac,70551,MRI BRAIN W/O CONTRA,4422.56,,,
+SelectMedical_Pontiac,70450,CT HEAD/BRAIN W/O CO,2546.78,,,
+SelectMedical_Saginaw,85027,CBC AUTOMATED W/PLT,61.11,,,
+SelectMedical_Saginaw,85025,CBC W/AUTO PLT W/AUT,139.51,,,
+SelectMedical_Saginaw,70551,MRI BRAIN W/O CONTRA,2920.7,,,
+SelectMedical_Saginaw,70450,CT HEAD/BRAIN W/O CO,3623.06,,,
+Sparrow_Carson,99203,OFFICE OUTPATIENT NEW LEVEL III,145,36.25,0,117.74
+Sparrow_Carson,70551,Hb Mri Brain,1943,485.75,138.6588,1577.716
+Sparrow_Carson,70450,"Hb Ct Scan,head/brain,w/o Contrast Matl",1326,331.5,66.6876,1076.712
+Sparrow_Carson,59409,"Hb Obstetrical Care,vag Deliv Only",4385,1096.25,1486.3695,3560.62
+Sparrow_Carson,45378,"Hb Colonoscopy,diagnostic",1952,488,454.5086,1585.024
+Sparrow_Clinton,99203,OFFICE OUTPATIENT NEW LEVEL III,145,36.25,42.05,133.4
+Sparrow_Clinton,70551,HB Mri Brain,2147,536.75,187.36416,1975.24
+Sparrow_Clinton,70450,"HB Ct Scan,Head/Brain,W/O Contrast Matl",1665,416.25,90.11232,1531.8
+Sparrow_Clinton,45378,"HB Colonoscopy,Diagnostic",1613,403.25,467.77,1483.96
+Sparrow_Eaton,99203,OFFICE OUTPATIENT NEW LEVEL III,145,36.25,0,130.5
+Sparrow_Eaton,70551,HB Mri Brain,2072,518,187.36416,1864.8
+Sparrow_Eaton,70450,"HB Ct Scan,Head/Brain,W/O Contrast Matl",1120,280,90.11232,1008
+Sparrow_Eaton,59409,"HB Obstetrical Care,Vag Deliv Only",395,98.75,142.2,2008.4724
+Sparrow_Eaton,45378,COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD,628,157,226.08,614.15952
+Sparrow_Ionia,99203,OFFICE OUTPATIENT NEW LEVEL III,145,36.25,42.05,126.15
+Sparrow_Ionia,70551,HB Mri Brain,2602,650.5,187.36416,2263.74
+Sparrow_Ionia,70450,"HB Ct Scan,Head/Brain,W/O Contrast Matl",1564,391,90.11232,1360.68
+Sparrow_Ionia,59409,"HB Obstetrical Care,Vag Deliv Only",1861,465.25,539.69,2008.4724
+Sparrow_Ionia,45378,"HB Colonoscopy,Diagnostic",768,192,222.72,668.16
+Sparrow_Lansing,99203,OFFICE/OUTPATIENT NEW LOW MDM 30-44 MINUTES,145,36.25,0,113.1
+Sparrow_Lansing,85027,Hb Complete Cbc,11,2.75,3.7235,8.58
+Sparrow_Lansing,85025,Hb Complete Cbc & Auto Diff Wbc,13,3.25,4.4005,10.14
+Sparrow_Lansing,70551,Hb Mri Brain,1046,261.5,137.73655,815.88
+Sparrow_Lansing,70450,"Hb Ct Scan,head/brain,w/o Contrast Matl",1936,484,66.24135,1510.08
+Sparrow_Lansing,59409,"Hb Obstetrical Care,vag Deliv Only",5155,1288.75,1476.4687,4020.9
+Sparrow_Lansing,45378,"Hb Colonoscopy,diagnostic",2017,504.25,451.48005,1573.26
+Sparrow_Specialty,85027,Hb Complete Cbc,11,2.75,3.443,8.8
+Sparrow_Specialty,85025,Hb Complete Cbc & Auto Diff Wbc,13,3.25,4.069,10.4
+Sparrow_Specialty,70551,Hb Mri Brain,1006,251.5,314.878,804.8
+Sparrow_Specialty,70450,"Hb Ct Scan,head/brain,w/o Contrast Matl",1590,397.5,497.67,1272
+Sparrow_Specialty,59409,"Hb Obstetrical Care,vag Deliv Only",4957,1239.25,1551.541,3965.6
+Sparrow_Specialty,45378,"Hb Colonoscopy,diagnostic",1939,484.75,606.907,1551.2
+SpectrumHealth_BigRapidsHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_BigRapidsHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_BigRapidsHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_BigRapidsHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_BigRapidsHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_BigRapidsHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_BlodgettHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,26.9,21.52,,
+SpectrumHealth_BlodgettHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,34.41,27.528,,
+SpectrumHealth_BlodgettHospital,70551,HC MRI BRAIN WO CONTRAST,1430.35,1144.28,,
+SpectrumHealth_BlodgettHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,544.9,435.92,,
+SpectrumHealth_ButterworthHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,26.9,21.52,,
+SpectrumHealth_ButterworthHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,34.41,27.528,,
+SpectrumHealth_ButterworthHospital,70551,HC MRI BRAIN WO CONTRAST,1430.35,1144.28,,
+SpectrumHealth_ButterworthHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,544.9,435.92,,
+SpectrumHealth_ButterworthHospital,59409,HC VAGINAL DELIVERY ONLY,370.88,296.704,,
+SpectrumHealth_GerberMemorial,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_GerberMemorial,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_GerberMemorial,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_GerberMemorial,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_GerberMemorial,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_GerberMemorial,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_HelenDevosChildrensHospital,70551,HC MRI BRAIN WO CONTRAST,1625.37,1300.296,,
+SpectrumHealth_HelenDevosChildrensHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,557.26,445.808,,
+SpectrumHealth_KelseyHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_KelseyHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_KelseyHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_KelseyHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_KelseyHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_KelseyHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_LakelandHospitalWatervliet,59409,HC VAGINAL DELIVERY ONLY,1403,1122.4,,
+SpectrumHealth_LakelandHospitalWatervliet,70551,HC MRI BRAIN W/O,1908.56,1526.848,,
+SpectrumHealth_LakelandHospitalWatervliet,70450,HC CT HEAD W/O CONTRAST,1120,896,,
+SpectrumHealth_LakelandHospitalWatervliet,85025,HC CBC W DIFF,53.13,42.504,,
+SpectrumHealth_LakelandHospitalWatervliet,85027,HC CBC NO DIFF,39.69,31.752,,
+SpectrumHealth_LakelandMedicalCenter,59409,HC VAGINAL DELIVERY ONLY,1403,1122.4,,
+SpectrumHealth_LakelandMedicalCenter,70551,HC MRI BRAIN W/O,1908.56,1526.848,,
+SpectrumHealth_LakelandMedicalCenter,70450,HC CT HEAD W/O CONTRAST,1120,896,,
+SpectrumHealth_LakelandMedicalCenter,85025,HC CBC W DIFF,53.13,42.504,,
+SpectrumHealth_LakelandMedicalCenter,85027,HC CBC NO DIFF,39.69,31.752,,
+SpectrumHealth_LudingtonHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_LudingtonHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_LudingtonHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_LudingtonHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_LudingtonHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_LudingtonHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_PennockHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_PennockHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_PennockHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_PennockHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_PennockHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_PennockHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_ReedCityHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_ReedCityHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_ReedCityHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_ReedCityHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_ReedCityHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_ReedCityHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_UnitedHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_UnitedHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_UnitedHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_UnitedHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_UnitedHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_UnitedHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+SpectrumHealth_ZeelandCommunityHospital,99203,HC PR OFFICE OUTPATIENT NEW 30 MINUTES [99203],166,132.8,,
+SpectrumHealth_ZeelandCommunityHospital,85027,HC CBC PLATELET NO DIFFERENTIAL,36.68,29.344,,
+SpectrumHealth_ZeelandCommunityHospital,85025,HC CBC AUTO COMPLETE DIFFERENTIAL,46.92,37.536,,
+SpectrumHealth_ZeelandCommunityHospital,70551,HC MRI BRAIN WO CONTRAST,1950.48,1560.384,,
+SpectrumHealth_ZeelandCommunityHospital,70450,HC CT HEAD OR BRAIN WO CONSTRAST,743.04,594.432,,
+SpectrumHealth_ZeelandCommunityHospital,45378,HC PR COLONOSCOPY FLX DX W/COLLJ SPEC WHEN PFRMD [45378],540,432,,
+Trinity_MercyHealthLakeshore,85027,,35,,32,32
+Trinity_MercyHealthLakeshore,85025,,53,,45,45
+Trinity_MercyHealthLakeshore,70551,,1839,,1500,1585
+Trinity_MercyHealthLakeshore,70450,,1051,,909,951
+Trinity_MercyHealthMuskegon,85027,,35,,7,9
+Trinity_MercyHealthMuskegon,85025,,53,,10,12
+Trinity_MercyHealthMuskegon,70551,,1839,,323,570
+Trinity_MercyHealthMuskegon,70450,,1051,,155,238
+Trinity_SaintMarysGrandRapids,85027,,14,,8,11
+Trinity_SaintMarysGrandRapids,85025,,14,,11,14
+Trinity_SaintMarysGrandRapids,70551,,1839,,397,612
+Trinity_SaintMarysGrandRapids,70450,,1051,,264,396
+Trinity_StJoeAnnArbor,85027,,42,,8,9
+Trinity_StJoeAnnArbor,85025,,66,,14,15
+Trinity_StJoeAnnArbor,70551,,3557,,306,544
+Trinity_StJoeAnnArbor,70450,,2047,,383,532
+Trinity_StJoeChelsea,85027,,42,,8,9
+Trinity_StJoeChelsea,85025,,73,,14,17
+Trinity_StJoeChelsea,70551,,3557,,374,771
+Trinity_StJoeChelsea,70450,,2047,,274,388
+Trinity_StJoeLivingston,85027,,42,,11,12
+Trinity_StJoeLivingston,85025,,73,,18,20
+Trinity_StJoeLivingston,70551,,3557,,403,483
+Trinity_StJoeLivingston,70450,,2047,,235,425
+Trinity_StJoeLivonia,85027,,42,,6,8
+Trinity_StJoeLivonia,85025,,73,,11,13
+Trinity_StJoeLivonia,70551,,3419,,530,772
+Trinity_StJoeLivonia,70450,,1720,,374,450
+Trinity_StJoeOakland,70450,,1507,,410,532
+Trinity_StJoeOakland,70551,,2244,,349,691
+Trinity_StJoeOakland,85025,,73,,11,13
+Trinity_StJoeOakland,85027,,38,,5,7
+UniversityOfMichigan_All,45378,"Hc-colonoscopy,diagnostic",3279,1311.6,410.97,3115.05
+UniversityOfMichigan_All,59409,"Hc-obstetrical Care,vaginal Delivery Only",4124,1649.6,1343.98,4124
+UniversityOfMichigan_All,59409,"Hc-wbc-obstetrical Care,vaginal Delivery Only",4124,1649.6,1343.98,4069.8
+UniversityOfMichigan_All,59409,"Hc-obstetrical Care,vaginal Delivery Only",4284,1713.6,1343.98,4124
+UniversityOfMichigan_All,59409,"Hc-wbc-obstetrical Care,vaginal Delivery Only",4284,1713.6,1343.98,4069.8
+UniversityOfMichigan_All,70450,"Hc-ct Scan,head/brain,w/o Contrast Material",1838,735.2,60.3,1746.1
+UniversityOfMichigan_All,70551,Hc-mri Brain,3059,1223.6,125.38,2906.05
+UniversityOfMichigan_All,85025,Hc-lab-qualitative Blood Count,81,32.4,4.18,76.95
+UniversityOfMichigan_All,85025,Hc-lab-cbc W/plts & Diff,81,32.4,4.18,78.85
+UniversityOfMichigan_All,85025,Hc-lab-qualitative Blood Count,83,33.2,4.18,76.95
+UniversityOfMichigan_All,85025,Hc-lab-cbc W/plts & Diff,83,33.2,4.18,78.85
+UniversityOfMichigan_All,85027,Hc-lab-cbc W/plts,53,21.2,3.48,50.35
+UniversityOfMichigan_All,85027,Hc-lab-cbc W/plts Poc,53,21.2,3.48,58.9
+UniversityOfMichigan_All,85027,Hc-lab-cbc W/plts,62,24.8,3.48,50.35
+UniversityOfMichigan_All,85027,Hc-lab-cbc W/plts Poc,62,24.8,3.48,58.9
