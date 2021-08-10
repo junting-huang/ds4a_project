@@ -3,10 +3,10 @@ This is an archive library for all notebook files created for the DS4A Project (
 
 ### File List
 
-* data
-  * df_hospital_clean.csv
-  * df_population.csv
-  * df_price_clean.csv
+* data folder
+  * df_hospital_clean.csv (hospital data)
+  * df_population.csv (demographic data)
+  * df_price_clean.csv (pricing data)
 * data_schema_diagram.drawio </br>
 This is the diagram for the data schema.
 
