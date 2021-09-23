@@ -1,6 +1,8 @@
 ### ds4a_project (team 54)
 This is an archive for all notebook files created for the DS4A Project (Team 54)
 
+![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
+
 ### File List
 
 * data folder
