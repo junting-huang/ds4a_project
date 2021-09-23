@@ -1,9 +1,7 @@
-![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
-
-### ds4a_project (team 54)
+## ds4a_project (team 54)
 This is an archive for all notebook files created for the DS4A Project (Team 54)
 
-### File List
+## File List
 
 * data folder
   * df_hospital_clean.csv (hospital data)
@@ -26,3 +24,5 @@ This notebook is the first implementation of knn imputation.
 
 * regression_model.ipynb </br>
 This notebook is the main file for predictive modeling. In addition to model selection/optimization, it also contains correlation matrix and pca biplot for the eda.
+
+![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
