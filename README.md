@@ -1,5 +1,7 @@
 ## ds4a_project (team 54)
-This is an archive for all notebook files created for the DS4A Project (Team 54)
+This is an archive for all notebook files created for the DS4A Project (Team 54).
+
+Effective 2021, the federal government promulgated a new rule for hospitals requiring them to disclose pricing on a wide range of hospital services. This project explored how this price transparency regulation can help patients understand costs, and examine the relationship between hospital pricing and demographic data in Michigan. 
 
 ![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
 
