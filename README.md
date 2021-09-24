@@ -24,7 +24,7 @@ This notebook prepares all dataframes for the merging. It checks foregin keys fo
 This notebook is the first version of eda, developed by kasole nyembo.
 
 * knn_imputation.ipynb </br>
-This notebook is the first implementation of knn imputation.
+This notebook is the first implementation of knn imputation, which did not end up in the final product.
 
 * regression_model.ipynb </br>
 This notebook is the main file for predictive modeling. In addition to model selection/optimization, it also contains correlation matrix and pca biplot for the eda.
