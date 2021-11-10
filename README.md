@@ -5,8 +5,6 @@ Effective 2021, the federal government promulgated a new rule for hospitals requ
 
 ![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
 
-![alt text](https://github.com/junting-huang/ds4a_project/blob/main/poster_54.jpeg)
-
 Read the [Final Report](https://www.correlation-one.com/hubfs/Datafolios/Empowerment%202.0%20Capstone%20Project%20Datafolio/Team_54_Final%20Report.pdf.pdf) of this capstone project
 
 ## File List
@@ -32,3 +30,5 @@ This notebook is the first implementation of knn imputation, which did not end u
 
 * regression_model.ipynb </br>
 This notebook is the main file for predictive modeling. In addition to model selection/optimization, it also contains correlation matrix and pca biplot for the eda.
+
+![alt text](https://github.com/junting-huang/ds4a_project/blob/main/poster_54.jpeg)
