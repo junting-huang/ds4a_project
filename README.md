@@ -5,6 +5,10 @@ Effective 2021, the federal government promulgated a new rule for hospitals requ
 
 ![alt text](https://github.com/junting-huang/ds4a_project/blob/main/Team%2054.png)
 
+![alt text](https://github.com/junting-huang/ds4a_project/blob/main/poster_54.jpeg)
+
+Read the [Final Report](https://www.correlation-one.com/hubfs/Datafolios/Empowerment%202.0%20Capstone%20Project%20Datafolio/Team_54_Final%20Report.pdf.pdf) of this capstone project
+
 ## File List
 
 * data folder
